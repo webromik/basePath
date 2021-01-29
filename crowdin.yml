@@ -1,7 +1,0 @@
-base_path: /src/main/resources/theme/hapimag
-preserve_hierarchy: true
-files:
-  - source: /login/messages/messages_en.properties
-    translation: /login/messages/messages_%locale_with_underscore%.properties
-    translation_replace:
-      en_: ''
